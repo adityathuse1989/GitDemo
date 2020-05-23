@@ -14,4 +14,9 @@ public class AppiumTest {
 		System.out.println("IOSApps");
 	}
 
+	@Test
+	public void IOSApps2()
+	{
+		System.out.println("IOSApps2");
+	}
 }
