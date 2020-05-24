@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="87" started-at="2020-05-17T01:56:44 IST" finished-at="2020-05-17T01:56:44 IST">
+  <suite name="Default suite" duration-ms="109" started-at="2020-05-25T00:51:59 IST" finished-at="2020-05-25T00:51:59 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="87" started-at="2020-05-17T01:56:44 IST" finished-at="2020-05-17T01:56:44 IST">
+    <test name="Default test" duration-ms="109" started-at="2020-05-25T00:51:59 IST" finished-at="2020-05-25T00:51:59 IST">
       <class name="qaclickacademy.MavenJava.SeleniumTest">
-        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@2833cc44]" name="BrowserAutomation" duration-ms="17" started-at="2020-05-17T01:56:44 IST" finished-at="2020-05-17T01:56:44 IST">
+        <test-method status="PASS" signature="seleniumTest()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@27a8c74e]" name="seleniumTest" duration-ms="22" started-at="2020-05-25T00:51:59 IST" finished-at="2020-05-25T00:51:59 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BrowserAutomation -->
-        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@2833cc44]" name="elementsUI" duration-ms="3" started-at="2020-05-17T01:56:44 IST" finished-at="2020-05-17T01:56:44 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- elementsUI -->
+        </test-method> <!-- seleniumTest -->
       </class> <!-- qaclickacademy.MavenJava.SeleniumTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
